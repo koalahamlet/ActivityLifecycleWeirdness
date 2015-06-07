@@ -1,0 +1,53 @@
+06-07 12:56:52.701    7328-7328/mikecanco.de.testapplication I/art﹕ Late-enabling -Xcheck:jni
+MainActivity﹕ ⇢ <init>()
+MainActivity﹕ ⇠ <init> [0ms]
+MainActivity﹕ ⇢ onCreate(savedInstanceState=null)
+06-07 12:56:52.792    7328-7328/mikecanco.de.testapplication D/testApplication﹕ 2131230721
+MainActivity﹕ ⇠ onCreate [15ms]
+MainActivityFragment﹕ ⇢ onAttach(activity=mikecanco.de.testapplication.MainActivity@17932e63)
+MainActivityFragment﹕ ⇠ onAttach [0ms]
+MainActivityFragment﹕ ⇢ onCreate(savedInstanceState=null)
+MainActivityFragment﹕ ⇠ onCreate [0ms]
+MainActivityFragment﹕ ⇢ onCreateView(inflater=com.android.internal.policy.impl.PhoneLayoutInflater@255f1a60, container=android.widget.FrameLayout{29c7ab19 V.E..... ......I. 0,0-0,0 #7f080001 app:id/frame_layout}, savedInstanceState=null)
+MainActivityFragment﹕ ⇠ onCreateView [4ms] = android.widget.LinearLayout{33fc8c89 V.E..... ......I. 0,0-0,0}
+MainActivityFragment﹕ ⇢ onActivityCreated(savedInstanceState=null)
+MainActivityFragment﹕ ⇠ onActivityCreated [0ms]
+MainActivity﹕ ⇢ onStart()
+MainActivity﹕ ⇠ onStart [0ms]
+MainActivityFragment﹕ ⇢ onStart()
+MainActivityFragment﹕ ⇠ onStart [0ms]
+MainActivity﹕ ⇢ onResume()
+MainActivity﹕ ⇠ onResume [0ms]
+MainActivityFragment﹕ ⇢ onResume()
+MainActivityFragment﹕ ⇠ onResume [0ms]
+OpenGLRenderer﹕ Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+Atlas﹕ Validating map...
+Adreno-EGL﹕ <qeglDrvAPI_eglInitialize:379>: QUALCOMM Build: 01/14/15, ab0075f, Id3510ff6dc
+OpenGLRenderer﹕ Initialized EGL, version 1.4
+OpenGLRenderer﹕ Enabling debug mode 0
+MainActivity﹕ ⇢ onCreateOptionsMenu(menu=com.android.internal.view.menu.MenuBuilder@3d186845)
+MainActivity﹕ ⇠ onCreateOptionsMenu [0ms] = true
+MainActivity﹕ ⇢ onClick()
+MainActivity﹕ ⇠ onClick [1ms]
+MainActivityFragment﹕ ⇢ onPause()
+MainActivityFragment﹕ ⇠ onPause [0ms]
+MainActivityFragment﹕ ⇢ onStop()
+MainActivityFragment﹕ ⇠ onStop [0ms]
+MainActivityFragment﹕ ⇢ onDestroyView()
+MainActivityFragment﹕ ⇠ onDestroyView [0ms]
+MainActivityFragment﹕ ⇢ onDestroy()
+MainActivityFragment﹕ ⇠ onDestroy [0ms]
+MainActivityFragment﹕ ⇢ onDetach()
+MainActivityFragment﹕ ⇠ onDetach [0ms]
+SecondFragment﹕ ⇢ onAttach(activity=mikecanco.de.testapplication.MainActivity@17932e63)
+SecondFragment﹕ ⇠ onAttach [0ms]
+SecondFragment﹕ ⇢ onCreate(savedInstanceState=null)
+SecondFragment﹕ ⇠ onCreate [0ms]
+SecondFragment﹕ ⇢ onCreateView(inflater=com.android.internal.policy.impl.PhoneLayoutInflater@373ecb54, container=android.widget.FrameLayout{29c7ab19 V.E..... ......ID 0,0-1080,1533 #7f080001 app:id/frame_layout}, savedInstanceState=null)
+SecondFragment﹕ ⇠ onCreateView [1ms] = android.widget.LinearLayout{2337979f V.E..... ......I. 0,0-0,0}
+SecondFragment﹕ ⇢ onActivityCreated(savedInstanceState=null)
+SecondFragment﹕ ⇠ onActivityCreated [0ms]
+SecondFragment﹕ ⇢ onStart()
+SecondFragment﹕ ⇠ onStart [0ms]
+SecondFragment﹕ ⇢ onResume()
+SecondFragment﹕ ⇠ onResume [0ms]
